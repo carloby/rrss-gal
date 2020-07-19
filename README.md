@@ -1,0 +1,2 @@
+# rrss-gal
+Optimización canales 
